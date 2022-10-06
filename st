@@ -42,7 +42,7 @@
             
             });
         </script>
-        <button onclick="dohit(this)"><img></button>
+        <button onclick="dohit(this)"><img src="https://tw.canon/media/image/2019/10/08/715b571568434f4980633591177b5b88__MG_0555.jpg"></button>
         點次數:<label id="myhit">99</label><br>
         
         </div>
