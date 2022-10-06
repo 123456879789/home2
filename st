@@ -42,7 +42,7 @@
             
             });
         </script>
-        <button onclick="dohit(this)"><img src="https://tw.canon/media/image/2019/10/08/715b571568434f4980633591177b5b88__MG_0555.jpg"></button>
+        <button onclick="dohit(this)"><img src="https://s.yimg.com/ny/api/res/1.2/2Tw_tAFl5loPD8nnQyxCpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM1OQ--/https://s.yimg.com/uu/api/res/1.2/_wKUMZQIjFOErbvHVttWzA--~B/aD0yODY7dz01MTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/zh-tw/setn.com.tw/94e569eb3e1e8062b98ec83c22bb5288"></button>
         點次數:<label id="myhit">99</label><br>
         
         </div>
